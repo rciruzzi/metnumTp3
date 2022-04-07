@@ -1,0 +1,10 @@
+data/*
+build/*
+notebooks/.ipynb_checkpoints
+notebooks/Elipses.ipynb
+notebooks/PandasInmobiliario.ipynb
+tp3/**
+notebooks/__pycache__
+notebooks/*.so
+notebooks/*.pyd
+!data/percepcion_inseguridad.csv

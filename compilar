@@ -1,0 +1,8 @@
+mkdir build
+cd build
+rm -rf * && y
+cmake ..
+make
+cd ..
+cp build/*.so  notebooks/
+
